@@ -1,0 +1,9 @@
+{
+    "name": "os/quan_ly_sach",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "app"
+        ]
+    }
+}
