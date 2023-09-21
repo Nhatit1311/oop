@@ -1,0 +1,9 @@
+{
+    "name": "os/quan_ly_phim",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "app"
+        ]
+    }
+}
